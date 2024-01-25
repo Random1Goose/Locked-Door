@@ -1,2 +1,2 @@
 # Locked-Door
-I made this project using HTML, CSS, and Javascript
+I coded this project using HTML, Javascript, and used CSS to style it.
